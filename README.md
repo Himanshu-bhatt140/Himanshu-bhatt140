@@ -1,21 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on **UI/UX & Front-End Development at smartData Enterprises, building scalable React, Angular, and TypeScript applications**.<br><br>👯 I’m looking to collaborate on **SaaS platforms, design systems, interactive dashboards, AI-powered products, and modern web experiences**.<br><br>🤝 I’m looking for help with **Advanced Front-End Architecture, Micro Frontends, Animation Systems, and Performance Optimization**.<br><br>🌱 I’m currently learning **Advanced React Patterns, Next.js, Front-End System Design, Animation Architecture, and Web Performance Optimization**.<br><br>💬 Ask me about **React, Angular, TypeScript, UI/UX Design, Figma, Design Systems, Accessibility (WCAG), and scalable component architecture**.<br><br>⚡ Fun fact: **I started in enterprise technical support solving production issues, and today I design + build production-ready user experiences used by real businesses.**
+![logo](https://github.com/Vineettiwari02/Vineettiwari02/blob/main/Make%20your%20README.png)
 
+## Hey there, Vineet this side!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-bhatt-uiuxdeveloper/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@himanshu bhatt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshubhatt140@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Himanshu-bhatt140&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Himanshu-bhatt140&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshu-bhatt140&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshu-bhatt140&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👨🏻‍💻 &nbsp;About Me
+- 🤔 &nbsp; Frontend Developer & Designer working remotely in India.
+- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
+- ⚡️ &nbsp; Fun fact: I like playing chess, reading and discovering new technologies.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Himanshu-bhatt140&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🛠 &nbsp;Languages and Tools
+
+ <img align="right" alt="coding" width="150" src="https://github.com/Vineettiwari02/Vineettiwari02/blob/main/71c204e4a2d46b4ef49d2277b563e064.png"> 
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)  
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)  
+  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)  
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)  
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Vineettiwari02">
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+---
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+
+
+
+
+
+---
+
+<!-- ### YT Videos -->
+
+<!-- YT-Video-LIST:START -->
+<!-- - [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
+- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
+- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
+- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M) -->
+<!-- YT-Video-LIST:END -->
+
+<!-- --- -->
+
+<!-- ### Blogs posts -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
+- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship/)
+- [Django Vs Flask – Which One Should You Learn In 2021?](https://blog.unwiredlearning.com/django-vs-flask)
+- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/) -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- --- -->
+
+<!-- ### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
+<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
+<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
+</p> -->
