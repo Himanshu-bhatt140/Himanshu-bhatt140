@@ -1,4 +1,4 @@
-![logo](https://github.com/Vineettiwari02/Vineettiwari02/blob/main/Make%20your%20README.png)
+![logo]([https://github.com/Vineettiwari02/Vineettiwari02/blob/main/Make%20your%20README.png](https://raw.githubusercontent.com/Himanshu-bhatt140/Himanshu-bhatt140/refs/heads/main/github-banner.png))
 
 ## Hey there, Himanshu here!
 
