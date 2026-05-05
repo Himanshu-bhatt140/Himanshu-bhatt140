@@ -40,10 +40,7 @@
 ## 💻 My Programming Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-bhatt140&layout=compact&langs_count=8&bg_color=ffffff&title_color=6f42c1&text_color=000000&hide_border=false"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshu-bhatt140&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 </p>
 
 ---
