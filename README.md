@@ -1,11 +1,11 @@
 ![logo](https://github.com/Vineettiwari02/Vineettiwari02/blob/main/Make%20your%20README.png)
 
-## Hey there, Vineet this side!
+## Hey there, Himanshu here!
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🤔 &nbsp; Frontend Developer & Designer working remotely in India.
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
-- ⚡️ &nbsp; Fun fact: I like playing chess, reading and discovering new technologies.
+- ⚡️ &nbsp; Fun fact: I like playing volleyball, reading and discovering new technologies.
 
 ---
 
@@ -37,52 +37,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+## 💻 My Programming Languages
+
 <p align="center">
-<a href="https://github.com/Vineettiwari02">
-  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamSarda&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamSarda&layout=compact&langs_count=8&theme=buefy"/>
-</a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-bhatt140&layout=compact&langs_count=8&bg_color=ffffff&title_color=6f42c1&text_color=000000&hide_border=false"
+    alt="Top Languages"
+  />
 </p>
 
 ---
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
-
-
-
-
-
-
----
-
-<!-- ### YT Videos -->
-
-<!-- YT-Video-LIST:START -->
-<!-- - [Being a Remote Developer - Understanding Pros and Cons of Working Remotely](https://www.youtube.com/watch?v=lAsmBDVPmEU)
-- [Where to get Remote Software Developer Job as a Fresher](https://www.youtube.com/watch?v=n-nbwb6s7ZE)
-- [How To Get An Internship In India? Tips For Computer Science Students](https://www.youtube.com/watch?v=F3kv-gpQPEA)
-- [Advice For Computer Science Students!](https://www.youtube.com/watch?v=OKXsaiwjx5M) -->
-<!-- YT-Video-LIST:END -->
-
-<!-- --- -->
-
-<!-- ### Blogs posts -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Get Internship – Complete Internship Search Guide](https://blog.unwiredlearning.com/complete-internship-guide)
-- [Should You Join Unpaid Internship?](https://blog.unwiredlearning.com/unpaid-internship/)
-- [Django Vs Flask – Which One Should You Learn In 2021?](https://blog.unwiredlearning.com/django-vs-flask)
-- [Git Basics For Beginners](https://unwiredlearning.com/blog/git-basic-for-beginners/) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
-
-<!-- ### 🤝🏻 &nbsp;Connect with Me 
-
-<p align="center">
-<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://www.instagram.com/shubham.ul/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-shubham.ul-red"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
-</p> -->
